@@ -1,0 +1,13 @@
+{
+  "name": "tanya-hr",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Tanya jawab ketenagakerjaan berdasarkan UU 27/2026",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}

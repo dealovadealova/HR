@@ -1,0 +1,30 @@
+name = "tanya-hr"
+main = "src/index.js"
+compatibility_date = "2026-01-01"
+
+# Halaman statis dari folder public/ dilayani lewat assets.
+[assets]
+directory = "./public"
+binding = "ASSETS"
+run_worker_first = ["/api/*"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "tanya-hr"
+database_id = "GANTI_DENGAN_ID_D1_ANDA"
+
+[[kv_namespaces]]
+binding = "KV"
+id = "GANTI_DENGAN_ID_KV_ANDA"
+
+# Workers AI: tanpa kunci API, memakai akun Cloudflare yang sama.
+[ai]
+binding = "AI"
+
+[vars]
+# Kosongkan LLM_BASE_URL untuk memakai Workers AI (default).
+# Isi LLM_BASE_URL dan LLM_API_KEY hanya jika ingin memakai penyedia lain, misalnya Groq.
+LLM_BASE_URL = ""
+# Nama model Workers AI: periksa katalog di dashboard Cloudflare, karena namanya bisa berubah.
+LLM_MODEL = "@cf/meta/llama-3.3-70b-instruct-fp8-fast"
+DAILY_LIMIT = "20"
