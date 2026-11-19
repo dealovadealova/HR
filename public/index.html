@@ -5,6 +5,11 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Tanya UU Ketenagakerjaan</title>
 <meta name="description" content="Tanya jawab ketenagakerjaan berdasarkan UU 27/2026, dengan nomor pasal.">
+<meta name="theme-color" content="#0e5a58">
+<link rel="icon" href="/icon.svg" type="image/svg+xml">
+<link rel="icon" href="/icon-192.png" sizes="192x192" type="image/png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/manifest.json">
 <style>
 :root { --bg:#f5f3ee; --surface:#fff; --side:#ebe8e0; --fg:#1c2a2b; --muted:#56676a; --accent:#0e5a58; --line:#d8d3c6; --soft:#dcebe9; color-scheme: light; }
 @media (prefers-color-scheme: dark) {
@@ -240,6 +245,13 @@ newBtn.addEventListener("click", newChat);
 state.chats = loadChats();
 state.currentId = state.chats.length ? state.chats[0].id : null;
 render();
+</script>
+<script>
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", function () {
+    navigator.serviceWorker.register("/sw.js").catch(function () {});
+  });
+}
 </script>
 </body>
 </html>
