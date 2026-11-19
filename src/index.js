@@ -12,6 +12,8 @@ Aturan:
 5. Untuk kasus, tanyakan data penting yang kurang (paling banyak 5 hal).
 6. Bahasa Indonesia baku dan sederhana. Tanpa emoji.
 7. Beri peringatan tegas untuk tindakan yang batal demi hukum atau pidana.
+9. Contoh jenis pekerjaan PKWT hanya boleh dari lima kategori Pasal 87 ayat 1: sekali selesai, sementara, musiman, produk baru, atau tidak tetap. Jangan mengarang daftar contoh lain. Jika pengguna minta contoh tambahan, beri label jelas: ilustrasi, bukan ketentuan UU.
+10. Jawaban harus selesai dan tidak terpotong. Jika perlu, ringkas.
 8. Akhiri dengan: informasi ini bersifat umum dan bukan nasihat hukum.`;
 
 const MAX_QUESTION = 500;
@@ -103,7 +105,7 @@ async function searchRegulasi(db, question) {
 async function callModel(env, messages) {
   if (!env.LLM_BASE_URL) {
     if (!env.AI) throw new Error("Workers AI belum dikonfigurasi");
-    const out = await env.AI.run(env.LLM_MODEL, { messages, temperature: 0.2 });
+    const out = await env.AI.run(env.LLM_MODEL, { messages, temperature: 0.2, max_tokens: 1500 });
     const text = out?.response;
     if (!text) throw new Error("jawaban kosong");
     return text;
@@ -114,7 +116,7 @@ async function callModel(env, messages) {
       "Content-Type": "application/json",
       Authorization: `Bearer ${env.LLM_API_KEY}`,
     },
-    body: JSON.stringify({ model: env.LLM_MODEL, messages, temperature: 0.2 }),
+    body: JSON.stringify({ model: env.LLM_MODEL, messages, temperature: 0.2, max_tokens: 1500 }),
   });
   if (!res.ok) throw new Error(`model ${res.status}`);
   const data = await res.json();
