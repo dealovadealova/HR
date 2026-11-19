@@ -81,7 +81,7 @@ form.addEventListener("submit", async function (ev) {
     if (data.sources && data.sources.length) {
       var s = document.createElement("div");
       s.className = "src";
-      s.textContent = "Rujukan: " + data.sources.map(function (x) { return x.topik + " (" + x.status + ")"; }).join("; ");
+      s.textContent = "Topik basis yang dipakai sebagai konteks: " + data.sources.map(function (x) { return x.topik + " (" + x.status + ")"; }).join("; ");
       ans.appendChild(s);
     }
     chatHistory.push({ role: "user", content: q }, { role: "assistant", content: data.answer });
