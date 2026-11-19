@@ -1,0 +1,293 @@
+[
+ {
+  "id": "pkwt-perpanjangan",
+  "kata": [
+   "pkwt",
+   "kontrak",
+   "perpanjang",
+   "diperpanjang",
+   "perpanjangan",
+   "waktu tertentu"
+  ],
+  "pasal": [
+   "82",
+   "87"
+  ],
+  "jawaban": "**Ringkasan:** PKWT (kontrak) paling lama 2 tahun. Dapat diperpanjang paling banyak 2 kali, masing-masing paling lama 1 tahun. Total maksimal 4 tahun.\n\n**Untuk kontrak yang sudah berjalan 3 tahun:**\n1. Cek berapa kali kontrak sudah diperpanjang. Jika sudah 2 kali, kontrak tidak bisa diperpanjang lagi (Pasal 82 ayat 2).\n2. Jika belum 2 kali dan total masih di bawah 4 tahun, perpanjangan masih mungkin, dengan masa paling lama 1 tahun.\n3. Rencana perpanjangan wajib diberitahukan secara tertulis paling lambat 7 hari sebelum kontrak berakhir (Pasal 82 ayat 3).\n4. PKWT yang tidak memenuhi ketentuan jenis pekerjaan atau batas waktu dapat menjadi PKWTT demi hukum (Pasal 87 ayat 5).\n\n**Yang perlu dicek:** jenis pekerjaan harus termasuk sekali selesai, sementara, musiman, produk baru, atau tidak tetap (Pasal 87 ayat 1). Pekerjaan yang bersifat tetap tidak boleh memakai PKWT (Pasal 87 ayat 2).\n\nJika Anda beri tahu jumlah perpanjangan yang sudah dilakukan dan jenis pekerjaannya, jawabannya bisa lebih spesifik."
+ },
+ {
+  "id": "masa-percobaan",
+  "kata": [
+   "masa percobaan",
+   "probation",
+   "percobaan",
+   "pkwtt",
+   "karyawan tetap",
+   "tetap"
+  ],
+  "pasal": [
+   "86",
+   "92",
+   "93"
+  ],
+  "jawaban": "**Aturan masa percobaan:**\n- PKWT (kontrak) tidak boleh memakai masa percobaan. Jika tetap dicantumkan, batal demi hukum, dan masa kerja tetap dihitung (Pasal 86).\n- PKWTT boleh memakai masa percobaan paling lama 3 bulan (Pasal 92 ayat 1).\n- Selama masa percobaan, upah minimal 75% dari upah jabatan dan tidak boleh di bawah UMP/UMK. Jaminan sosial wajib dibayarkan (Pasal 92 ayat 2).\n- Masa percobaan harus dicantumkan secara tertulis dalam PKWTT atau surat pengangkatan. Jika tidak, dianggap tidak ada (Pasal 92 ayat 3-5).\n- Masa percobaan dihitung sebagai masa kerja (Pasal 92 ayat 6).\n- Setelah masa percobaan selesai, pekerja wajib diangkat menjadi PKWTT (Pasal 92).\n\nJika PKWTT dibuat secara lisan, pemberi kerja wajib membuat surat pengangkatan tertulis (Pasal 93 ayat 2)."
+ },
+ {
+  "id": "pesangon-uph-upmk",
+  "kata": [
+   "pesangon",
+   "uang pesangon",
+   "berapa pesangon",
+   "uang penghargaan",
+   "upmk",
+   "uph",
+   "uang penggantian",
+   "masa kerja",
+   "severance"
+  ],
+  "pasal": [
+   "232",
+   "234"
+  ],
+  "jawaban": "**Dasar perhitungan (Pasal 234):** upah pokok ditambah tunjangan tetap. Jika upah harian, dikali 30. Jika upah satuan hasil, memakai rata-rata 12 bulan terakhir. Jika di bawah UMP/UMK, dasarnya UMP/UMK di domisili perusahaan.\n\n**Uang pesangon (Pasal 232 ayat 2), menurut masa kerja:**\n\n| Masa kerja | Pesangon |\n|---|---|\n| Kurang dari 1 tahun | 1 bulan upah |\n| 1 tahun sampai kurang dari 2 tahun | 2 bulan upah |\n| 2 sampai kurang dari 3 tahun | 3 bulan upah |\n| 3 sampai kurang dari 4 tahun | 4 bulan upah |\n| 4 sampai kurang dari 5 tahun | 5 bulan upah |\n| 5 sampai kurang dari 6 tahun | 6 bulan upah |\n| 6 sampai kurang dari 7 tahun | 7 bulan upah |\n| 7 sampai kurang dari 8 tahun | 8 bulan upah |\n| 8 tahun atau lebih | 9 bulan upah |\n\n**Uang penghargaan masa kerja (UPMK, Pasal 232 ayat 3):** dimulai dari masa kerja 3 tahun. Contoh: 3 sampai kurang dari 6 tahun mendapat 2 bulan upah, dan 24 tahun atau lebih mendapat 10 bulan upah.\n\n**Uang penggantian hak (UPH, Pasal 232 ayat 4):** cuti tahunan yang belum diambil, ongkos pulang, dan hak lain sesuai perjanjian, PP, atau PKB.\n\n**Catatan:** besaran pesangon yang sebenarnya tergantung alasan PHK. Pengali untuk tiap alasan diatur dalam Pasal 236 sampai 249. Misalnya, PHK karena pensiun atau pekerja meninggal dunia mendapat 2 kali pesangon. Untuk usaha mikro dan kecil, besarannya disepakati bersama (Pasal 250)."
+ },
+ {
+  "id": "phk-prosedur",
+  "kata": [
+   "pemutusan hubungan kerja",
+   "phk",
+   "pecat",
+   "dipecat",
+   "diberhentikan",
+   "prosedur phk",
+   "cara phk",
+   "di-phk"
+  ],
+  "pasal": [
+   "228",
+   "229"
+  ],
+  "jawaban": "**Prosedur PHK yang sah (Pasal 228):**\n1. Sebelum PHK, pemberi kerja, pekerja, serikat, dan pemerintah wajib berusaha mencegah PHK. Tahapannya berurutan, dimulai dari mengurangi lembur, jam kerja, dan shift, sampai merumahkan atau menawarkan pensiun dini (Pasal 228 ayat 1-2).\n2. Jika PHK tetap tidak bisa dihindari, wajib dirundingkan secara bipartit dengan serikat atau pekerja (Pasal 228 ayat 3).\n3. Perundingan bipartit paling lama 30 hari kerja sejak dimulai (Pasal 228 ayat 4).\n4. Jika bipartit gagal, penyelesaian lewat PHI (Pasal 228 ayat 5).\n5. PHK yang tidak disepakati hanya bisa dilakukan setelah ada penetapan PHI yang berkekuatan hukum tetap (Pasal 228 ayat 6).\n6. PHK tanpa kesepakatan atau tanpa putusan PHI yang berkekuatan hukum tetap batal demi hukum, dan pekerja wajib dipekerjakan kembali (Pasal 228 ayat 7).\n\n**Pengecualian bipartit:** tidak diperlukan jika pekerja mengundurkan diri, PKWT berakhir, pensiun sesuai perjanjian, atau meninggal dunia (Pasal 229).\n\n**Alasan PHK yang sah** diatur dalam Pasal 231, misalnya perusahaan tutup, pailit, pelanggaran setelah surat peringatan ketiga, mangkir, atau pensiun.\n\n**Penting:** PHK yang dilarang tetap batal walaupun prosedurnya diikuti (lihat Pasal 230)."
+ },
+ {
+  "id": "phk-larangan",
+  "kata": [
+   "dilarang phk",
+   "tidak boleh phk",
+   "larangan phk",
+   "phk hamil",
+   "phk menikah",
+   "phk sakit",
+   "phk serikat",
+   "phk karena sakit",
+   "phk karena hamil",
+   "di-phk saat hamil",
+   "dipecat karena",
+   "karyawan hamil",
+   "pekerja hamil",
+   "sedang hamil",
+   "hamil di-phk",
+   "hamil phk"
+  ],
+  "pasal": [
+   "230"
+  ],
+  "jawaban": "**PHK yang dilarang (Pasal 230), dan batal demi hukum jika dilakukan dengan alasan:**\n- Sakit lebih dari 12 bulan berturut-turut yang belum pasti sembuh.\n- Menjalankan kewajiban negara atau ibadah yang diperintahkan agama.\n- Menikah.\n- Hamil, melahirkan, gugur kandungan, atau menyusui bayinya.\n- Mempunyai hubungan darah atau perkawinan dengan pekerja lain di perusahaan yang sama.\n- Mendirikan, menjadi anggota, atau pengurus serikat, atau berkegiatan serikat.\n- Mengadukan pemberi kerja yang melakukan tindak pidana.\n- Berbeda paham, agama, aliran politik, suku, warna kulit, golongan, jenis kelamin, kondisi fisik, atau status perkawinan.\n- Dalam keadaan disabilitas tetap, sakit akibat kecelakaan kerja, atau sakit akibat pekerjaan.\n\nPHK dengan alasan seperti ini batal demi hukum, dan pekerja harus dipekerjakan kembali sesuai Pasal 228 ayat 7."
+ },
+ {
+  "id": "lembur",
+  "kata": [
+   "lembur",
+   "upah lembur",
+   "jam lembur",
+   "overtime",
+   "kerja lembur"
+  ],
+  "pasal": [
+   "115",
+   "116"
+  ],
+  "jawaban": "**Waktu kerja normal (Pasal 115 ayat 2):**\n- 7 jam per hari dan 40 jam per minggu untuk 6 hari kerja, atau\n- 8 jam per hari dan 40 jam per minggu untuk 5 hari kerja.\n\n**Syarat lembur (Pasal 116 ayat 1):**\n1. Ada persetujuan pekerja.\n2. Ada perintah tertulis atau digital dari pemberi kerja.\n3. Paling lama 4 jam per hari dan 18 jam per minggu.\n\n**Cara menghitung upah lembur (Pasal 116 ayat 2-3):**\n- Jam lembur pertama: 1,5 kali upah per jam.\n- Jam lembur berikutnya: 2 kali upah per jam.\n- Upah per jam = (upah pokok + tunjangan tetap) dibagi 173.\n\nContoh: jika upah pokok dan tunjangan tetap Rp5.000.000, upah per jam = 5.000.000 / 173 = sekitar Rp28.902. Jam lembur pertama dibayar sekitar 1,5 x Rp28.902.\n\nLembur yang tidak dibayar adalah tindak pidana (Pasal 285). Angka upah yang dipakai di atas hanya contoh, bukan upah yang berlaku."
+ },
+ {
+  "id": "cuti",
+  "kata": [
+   "cuti",
+   "cuti tahunan",
+   "cuti melahirkan",
+   "libur",
+   "istirahat",
+   "cuti haid",
+   "cuti hamil",
+   "laktasi"
+  ],
+  "pasal": [
+   "118",
+   "120",
+   "121",
+   "123"
+  ],
+  "jawaban": "**Istirahat dan cuti (Pasal 118):**\n- Istirahat antarjam kerja minimal 30 menit setelah 4 jam kerja terus-menerus.\n- Libur mingguan 1 hari untuk 6 hari kerja, atau 2 hari untuk 5 hari kerja.\n- Istirahat panjang 30 hari kalender setelah 5 tahun bekerja terus-menerus. Pekerja yang mengambilnya tidak berhak cuti tahunan pada tahun berjalan.\n- Cuti tahunan minimal 12 hari kerja setelah 12 bulan bekerja terus-menerus.\n\n**Cuti khusus:**\n- Haid: pekerja perempuan yang merasa sakit tidak wajib bekerja sampai 2 hari (Pasal 120).\n- Melahirkan: minimal 3 bulan, dan dapat diperpanjang 3 bulan jika ada kondisi khusus dengan surat dokter (Pasal 121).\n- Keguguran: berhak istirahat 1,5 bulan atau sesuai surat dokter (Pasal 121).\n- Menyusui: berhak fasilitas laktasi (Pasal 122).\n- Cuti tahunan, cuti melahirkan, dan istirahat keguguran dibayar penuh (Pasal 123).\n- Pendampingan istri melahirkan: 2 hari, dapat ditambah paling lama 3 hari (Pasal 124)."
+ },
+ {
+  "id": "upah-sakit",
+  "kata": [
+   "sakit",
+   "upah sakit",
+   "gaji sakit",
+   "tidak masuk kerja",
+   "tidak masuk karena sakit",
+   "dibayar saat sakit",
+   "karyawan sakit",
+   "pekerja sakit",
+   "sakit berapa",
+   "upahnya sakit",
+   "sakit dibayar"
+  ],
+  "pasal": [
+   "149"
+  ],
+  "jawaban": "**Upah saat pekerja sakit (Pasal 149 ayat 2-3):**\n- 4 bulan pertama: dibayar 100% dari upah.\n- 4 bulan kedua: dibayar 75%.\n- 4 bulan ketiga: dibayar 50%.\n- Bulan berikutnya, sampai di-PHK: dibayar 25%.\n\nUpah tetap dibayar penuh untuk beberapa keperluan keluarga, misalnya menikah 3 hari, istri melahirkan atau keguguran 2 hari atau paling lama 3 hari berikutnya, dan keluarga inti meninggal dunia 2 hari (Pasal 149 ayat 4).\n\nUntuk kondisi sakit yang berkepanjangan atau disabilitas akibat kerja lebih dari 12 bulan, berlaku ketentuan PHK khusus (Pasal 231 huruf m dan Pasal 246)."
+ },
+ {
+  "id": "ijazah-dokumen",
+  "kata": [
+   "ijazah",
+   "dokumen pribadi",
+   "tahan ijazah",
+   "menahan ijazah",
+   "jaminan",
+   "kartu identitas",
+   "ktp"
+  ],
+  "pasal": [
+   "78",
+   "79"
+  ],
+  "jawaban": "**Tidak boleh menahan ijazah atau dokumen pribadi.** Pemberi kerja dilarang mensyaratkan atau menahan ijazah dan dokumen pribadi pekerja sebagai jaminan (Pasal 78 ayat 1).\n\n**Pengecualian:** dokumen yang diperoleh dari pendidikan atau pelatihan yang dibiayai pemberi kerja berdasarkan perjanjian kerja tertulis, dan hanya untuk kepentingan yang dibenarkan secara hukum (Pasal 78 ayat 2).\n\n**Sanksi (Pasal 79):** peringatan tertulis, denda administratif, dan atau pembatasan kegiatan usaha. Pemberi kerja tetap wajib mengembalikan ijazah atau dokumen pribadi kepada pekerja."
+ },
+ {
+  "id": "mogok-kerja",
+  "kata": [
+   "mogok",
+   "mogok kerja",
+   "demo",
+   "unjuk rasa",
+   "aksi buruh"
+  ],
+  "pasal": [
+   "211",
+   "214",
+   "217",
+   "218",
+   "220"
+  ],
+  "jawaban": "**Syarat mogok kerja yang sah (Pasal 211):** dilakukan setelah perundingan gagal, yaitu pengusaha tidak mau berunding, atau tidak tercapai kesepakatan setelah 3 kali perundingan atau 30 hari kerja.\n\n**Pemberitahuan (Pasal 214):**\n- Tertulis paling lambat 7 hari kerja sebelum mogok, kepada pengusaha dan pemerintah daerah.\n- Memuat waktu mulai dan selesai, tempat, alasan, dan tanda tangan penanggung jawab.\n\n**Yang dilarang pengusaha (Pasal 217-218):**\n- Menghalangi mogok yang sah.\n- Menangkap atau menahan pekerja dan pengurus serikat yang mogok sah.\n- Mengganti pekerja yang mogok dengan pekerja dari luar, atau memberi sanksi balasan.\n\n**Upah saat mogok:** pekerja yang mogok sah untuk menuntut hak normatif yang dilanggar tetap berhak atas upah (Pasal 220)."
+ },
+ {
+  "id": "alih-daya",
+  "kata": [
+   "alih daya",
+   "outsourcing",
+   "outsource",
+   "vendor",
+   "tenaga alih",
+   "penyedia jasa"
+  ],
+  "pasal": [
+   "95",
+   "98",
+   "99"
+  ],
+  "jawaban": "**Ketentuan alih daya:**\n- Alih daya hanya untuk jasa penunjang, atau kegiatan yang tidak berhubungan langsung dengan proses produksi. Contoh: kebersihan, penyediaan makanan, pengamanan, dan angkutan pekerja (Pasal 95).\n- Jika pekerja alih daya dipakai untuk kegiatan yang berhubungan langsung dengan proses produksi, status kerjanya demi hukum beralih ke perusahaan pemberi pekerjaan (Pasal 98 ayat 1).\n- Hubungan kerja pekerja alih daya dengan perusahaan alih daya harus berdasarkan perjanjian tertulis, baik PKWT maupun PKWTT. Upah, jaminan sosial, dan penyelesaian perselisihan menjadi tanggung jawab perusahaan alih daya (Pasal 99 ayat 1-2).\n- Perusahaan alih daya dilarang memotong atau mengurangi hak normatif pekerjanya (Pasal 99 ayat 7).\n- Perjanjian alih daya yang sudah ada tetap berlaku sampai berakhir. Penyesuaian dengan UU ini paling lama 1 tahun sejak diundangkan (Pasal 306)."
+ },
+ {
+  "id": "upah-minimum",
+  "kata": [
+   "upah minimum",
+   "ump",
+   "umk",
+   "umsk",
+   "umsp",
+   "gaji minimum",
+   "minimum",
+   "upah di bawah"
+  ],
+  "pasal": [
+   "137",
+   "138",
+   "140",
+   "144"
+  ],
+  "jawaban": "**Upah minimum (Pasal 137):** terdiri atas UMP, UMK, UMSP, dan UMSK. Gubernur wajib menetapkan UMP dan UMSP. UMK harus lebih tinggi dari UMP.\n\n**Dasar penetapan (Pasal 138-139):** kebutuhan hidup layak, kondisi ekonomi, dan ketenagakerjaan. Formula memakai pertumbuhan ekonomi, inflasi, dan indeks tertentu.\n\n**Larangan (Pasal 140 ayat 5):** upah di bawah UMP/UMK dilarang. Upah di bawah UMP/UMK adalah tindak pidana (Pasal 288).\n\n**Usaha mikro dan kecil (Pasal 144):** dapat menyepakati upah minimal 50% dari UMP/UMK.\n\n**Angka UMP dan UMK tahun berjalan tidak tersedia di basis ini.** Silakan cek SK gubernur atau bupati/walikota yang berlaku di lokasi perusahaan."
+ },
+ {
+  "id": "pengunduran-diri",
+  "kata": [
+   "mengundurkan diri",
+   "resign",
+   "keluar kerja",
+   "berhenti kerja",
+   "undur diri",
+   "pengunduran diri"
+  ],
+  "pasal": [
+   "231",
+   "242",
+   "243",
+   "233"
+  ],
+  "jawaban": "**Syarat pengunduran diri (Pasal 231 huruf i):**\n1. Diajukan secara tertulis paling lambat 30 hari sebelum tanggal mulai pengunduran diri.\n2. Tidak terikat ikatan dinas.\n3. Tetap bekerja sampai tanggal tersebut.\n\n**Hak pekerja yang mengundurkan diri (Pasal 242):** uang penggantian hak (UPH), dan uang pisah sesuai Pasal 233. Pengunduran diri tidak memerlukan penetapan PHI.\n\n**Uang pisah (Pasal 233):** sesuai perjanjian kerja, PP, atau PKB. Jika tidak diatur, minimal 1 bulan upah.\n\n**Catatan:** pekerja yang mengundurkan diri tidak berhak atas uang pesangon atau UPMK."
+ },
+ {
+  "id": "surat-peringatan",
+  "kata": [
+   "surat peringatan",
+   "sp1",
+   "sp2",
+   "sp3",
+   "sp 1",
+   "sp 3",
+   "peringatan ketiga",
+   "disiplin",
+   "teguran"
+  ],
+  "pasal": [
+   "231",
+   "244"
+  ],
+  "jawaban": "**Surat peringatan dan PHK (Pasal 231 huruf k):** PHK dapat dilakukan jika pekerja melanggar aturan dalam perjanjian kerja, peraturan perusahaan, atau PKB, dan sebelumnya sudah menerima surat peringatan pertama, kedua, dan ketiga secara berturut-turut. Masing-masing surat berlaku paling lama 6 bulan, kecuali diatur lain dalam perjanjian kerja, peraturan perusahaan, atau PKB.\n\n**Hak pekerja (Pasal 244):** uang pesangon 1 kali, UPMK 1 kali, dan UPH sesuai Pasal 232.\n\n**Catatan:** pastikan surat peringatan tertulis dan sudah diberikan sesuai urutannya sebelum PHK."
+ },
+ {
+  "id": "mangkir",
+  "kata": [
+   "mangkir",
+   "tidak masuk tanpa keterangan",
+   "bolos",
+   "absen tanpa",
+   "tidak masuk 5 hari"
+  ],
+  "pasal": [
+   "231",
+   "243"
+  ],
+  "jawaban": "**Mangkir (Pasal 243):** pekerja yang mangkir 5 hari kerja atau lebih berturut-turut tanpa keterangan tertulis yang sah, dan sudah dipanggil 2 kali secara patut dan tertulis, dapat diputus hubungan kerjanya. Pemutusan dikualifikasikan sebagai pengunduran diri (Pasal 231 huruf j).\n\n**Hak pekerja:** UPH dan uang pisah sesuai Pasal 233 (Pasal 243 ayat 2).\n\n**Catatan:** pastikan pemanggilan dilakukan dua kali secara tertulis dan dokumentasinya tersimpan."
+ },
+ {
+  "id": "pkwt-jenis-pekerjaan",
+  "kata": [
+   "contoh pekerjaan",
+   "jenis pekerjaan",
+   "pekerjaan apa saja",
+   "pekerjaan apa",
+   "untuk pekerjaan apa",
+   "pekerjaan yang boleh",
+   "pkwt untuk",
+   "contoh pekerjaan pkwt"
+  ],
+  "pasal": [
+   "87"
+  ],
+  "jawaban": "**Pasal 87 ayat 1** membatasi PKWT (kontrak) hanya untuk lima jenis pekerjaan:\n1. Pekerjaan yang sekali selesai.\n2. Pekerjaan yang sifatnya sementara.\n3. Pekerjaan musiman.\n4. Pekerjaan produk baru, kegiatan baru, atau produk tambahan yang masih dalam percobaan.\n5. Pekerjaan yang tidak tetap.\n\n**Pasal 87 ayat 2** melarang PKWT untuk pekerjaan yang bersifat tetap.\n\n**Catatan:** naskah yang tersedia di basis ini tidak mencantumkan daftar contoh pekerjaan yang lebih rinci. Penentuan jenis pekerjaan harus mengacu pada kelima kategori di atas dan dijelaskan di perjanjian kerja. Jika ingin contoh untuk industri tertentu, sebaiknya cek peraturan pelaksana atau konsultan hubungan industrial."
+ }
+]
