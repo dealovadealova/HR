@@ -46,7 +46,7 @@ button:focus-visible, textarea:focus-visible { outline:2px solid var(--accent); 
 </div>
 
 <script>
-var history = [];
+var chatHistory = [];
 var log = document.getElementById("log");
 var form = document.getElementById("ask");
 var input = document.getElementById("q");
@@ -73,7 +73,7 @@ form.addEventListener("submit", async function (ev) {
     var res = await fetch("/api/tanya", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ question: q, history: history })
+      body: JSON.stringify({ question: q, history: chatHistory })
     });
     var data = await res.json();
     if (!res.ok) throw new Error(data.error || "Terjadi kesalahan.");
@@ -84,7 +84,7 @@ form.addEventListener("submit", async function (ev) {
       s.textContent = "Rujukan: " + data.sources.map(function (x) { return x.topik + " (" + x.status + ")"; }).join("; ");
       ans.appendChild(s);
     }
-    history.push({ role: "user", content: q }, { role: "assistant", content: data.answer });
+    chatHistory.push({ role: "user", content: q }, { role: "assistant", content: data.answer });
   } catch (e) {
     ans.textContent = e.message || "Terjadi kesalahan. Coba lagi nanti.";
   } finally {
